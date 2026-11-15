@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="header.svg" alt="Gaurav Kumar — AI Product & Technical Leadership" width="100%" />
+  <img src="header.svg" alt="Gaurav Kumar — AI Product Management" width="100%" />
   <br />
   <a href="https://gaurav-2210.github.io/gaurav-kumar-portfolio/"><strong>Explore my portfolio ↗</strong></a>
   &nbsp;·&nbsp;
@@ -8,33 +8,37 @@
 
 ## Hi, I’m Gaurav 👋
 
-**AI/ML Engineer moving products from stakeholder vision to working computer vision systems.**
+**AI/ML Engineer transitioning into AI Product Management.**
 
-I work across engineering, technical leadership, and product ownership. At **Invictron System**, I’ve helped develop three computer vision products and worked directly with senior military stakeholders from ideation through prototype demonstrations. Previously, I worked in R&D at **Maviyom Aviation**.
+I bring 2+ years of hands-on experience building computer-vision products and leading technical delivery. At **Invictron System**, I’ve owned three computer-vision product workstreams, partnered with senior military stakeholders from ideation through prototype demonstrations, translated needs into AI product roadmaps, and led a four-engineer team. Before that, I worked in aviation R&D at **Maviyom Aviation**.
 
-### A few things I’ve worked on
+### Product leadership
 
-| Product ownership | Stakeholders | Technical leadership |
-|:--|:--|:--|
-| End-to-end development of **3 computer vision products** | Direct engagement from **ideation to prototype demo** | Technical direction for a **4–6 person team** |
+- **Discover:** clarify stakeholder needs, intended users, constraints, and measurable outcomes
+- **Define:** translate broad goals into requirements, scope, priorities, and acceptance criteria
+- **Deliver:** align engineering work, manage trade-offs, and keep stakeholders close to progress
+- **Validate:** use evaluation evidence to communicate performance, limitations, and next steps
 
-### Engineering outcomes
+### Selected work
 
-**25% lower inference latency** &nbsp; · &nbsp; **18% higher detection accuracy** &nbsp; · &nbsp; **120K+ images** handled across dataset work
+- [GPS-denied navigation](https://gaurav-2210.github.io/gaurav-kumar-portfolio/projects/gps-denied-navigation.html)
+- [Drone detection](https://gaurav-2210.github.io/gaurav-kumar-portfolio/projects/drone-detection.html)
+- [Thermal human detection](https://gaurav-2210.github.io/gaurav-kumar-portfolio/projects/thermal-human-detection.html)
 
-### Focus
+### Engineering foundation
 
-- **Computer vision:** GPS-denied navigation, drone detection, and thermal human detection
-- **Product delivery:** problem discovery, requirements translation, prototype development, and stakeholder reviews
-- **Edge AI:** TensorRT · ONNX · CUDA · NVIDIA Jetson
+Computer vision · PyTorch · TensorFlow · OpenCV · YOLO-based detection · model evaluation · TensorRT · ONNX · CUDA · NVIDIA Jetson · Python · SQL · Linux · Git/GitHub
 
-### Featured work
+### Selected outcomes
 
-**[AI Product Portfolio ↗](https://gaurav-2210.github.io/gaurav-kumar-portfolio/)**  
-A closer look at my product experience, approach, and selected computer vision work.
+**~25% lower inference latency** · **~18% higher detection accuracy** · **~30% less annotation time** · **120K+ images** across dataset work
+
+At Maviyom Aviation, prior R&D work included a reported **~17% small-object mAP improvement** and **~25 FPS** Jetson Orin Nano deployment at 1280 × 1280.
+
+<sub>Figures summarize achievements across workstreams and are not all attributable to one project. Case studies include metric definitions and evaluation caveats where available.</sub>
 
 ---
 
 <p align="center">
-  <sub>Open to AI product, technical product, and computer vision leadership opportunities.</sub>
+  <sub>Open to AI Product Management and Technical Product Management roles focused on applied AI.</sub>
 </p>
