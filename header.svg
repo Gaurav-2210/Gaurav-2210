@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
-  <title id="title">Gaurav Kumar — AI Product and Technical Leadership</title>
-  <desc id="desc">A dark green editorial banner with a lime route line and abstract computer vision grid.</desc>
+  <title id="title">Gaurav Kumar — AI Product Management</title>
+  <desc id="desc">A dark green editorial banner with a lime route line and abstract product and computer vision grid.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10271f"/><stop offset=".58" stop-color="#183d32"/><stop offset="1" stop-color="#275b49"/></linearGradient>
     <radialGradient id="glow"><stop stop-color="#d8f36a" stop-opacity=".24"/><stop offset="1" stop-color="#d8f36a" stop-opacity="0"/></radialGradient>
@@ -14,11 +14,11 @@
     <path d="M815 222C876 212 866 153 925 166s54 84 116 57 63-86 132-107" stroke="#d8f36a" stroke-width="2" stroke-dasharray="5 8"/>
   </g>
   <circle cx="925" cy="166" r="5" fill="#f27f4d"/><circle cx="1173" cy="116" r="6" fill="#d8f36a"/>
-  <g transform="translate(74 73)">
-    <text x="0" y="20" fill="#d8f36a" font-family="Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="4">AI PRODUCT  /  COMPUTER VISION</text>
+  <g transform="translate(74 57)">
+    <text x="0" y="20" fill="#d8f36a" font-family="Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="4">AI PRODUCT MANAGEMENT  /  APPLIED AI</text>
     <text x="0" y="108" fill="#fffef9" font-family="Arial, sans-serif" font-size="64" font-weight="700" letter-spacing="-2">Gaurav Kumar</text>
-    <text x="2" y="151" fill="#dbe5dc" font-family="Arial, sans-serif" font-size="22">Technical leadership · Defence &amp; aerospace · Applied AI</text>
+    <text x="2" y="151" fill="#dbe5dc" font-family="Arial, sans-serif" font-size="22">Engineering depth · Product thinking · Delivery leadership</text>
     <path d="M2 191H138" stroke="#d8f36a" stroke-width="3" stroke-linecap="round"/>
-    <text x="2" y="224" fill="#bdcfc1" font-family="Courier New, monospace" font-size="12" letter-spacing="2">FROM OPERATIONAL NEED TO WORKING PROTOTYPE</text>
+    <text x="2" y="224" fill="#bdcfc1" font-family="Courier New, monospace" font-size="12" letter-spacing="2">FROM TECHNICAL CAPABILITY TO PRODUCT OUTCOME</text>
   </g>
 </svg>
